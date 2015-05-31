@@ -1,0 +1,6 @@
+{
+  // Java verticle
+  "main": "net.steel.control.StarterVerticle",
+  "description": "Sample using Vert.x",
+  "author": "Björn Stahl"
+}
